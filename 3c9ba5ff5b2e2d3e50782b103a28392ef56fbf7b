@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "612c8cc0_07e373e3",
+        "filename": "microservice_flask.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6d2f1697_7eaec4f2",
+        "filename": "predictor/api/endpoints/predictor.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "27f3c250_421b10b5",
+        "filename": "predictor/api/namespaces.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a1004050_2777beac",
+        "filename": "predictor/api/parser.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove TechM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "23d75b46_8ef5c6cd",
+        "filename": "predictor/api/restplus.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4d4637b5_17b075a9",
+        "filename": "predictor/api/serializers.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3915a366_3c071731",
+        "filename": "setup.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0176c42d_4f4730d7",
+        "filename": "test/unit_test/test_flask_pytest.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a4ee1ae1_99f14752",
+        "filename": "wsgi.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 225
+      },
+      "writtenOn": "2018-09-13T19:52:22Z",
+      "side": 1,
+      "message": "remove techM",
+      "revId": "3c9ba5ff5b2e2d3e50782b103a28392ef56fbf7b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
