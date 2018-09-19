@@ -1,0 +1,14 @@
+[
+  {
+    "name": "gbm",
+    "fullName": "Gradient Boosting Machine",
+    "supervised": true,
+    "available": true
+  },
+  {
+    "name": "naivebayes",
+    "fullName": "Naive Bayes",
+    "supervised": true,
+    "available": true
+  }
+]
