@@ -1,0 +1,55 @@
+[
+  {
+    "name": "automl",
+    "fullName": "Auto ML",
+    "available": false
+  },
+  {
+    "name": "aggregator",
+    "fullName": "Aggregator",
+    "supervised": false,
+    "available": false
+  },
+  {
+    "name": "drf",
+    "fullName": "Distributed Random Forest",
+    "supervised": true,
+    "available": false
+  },
+  {
+    "name": "gbm",
+    "fullName": "Gradient Boosting Machine",
+    "supervised": true,
+    "available": true
+  },
+  {
+    "name": "glm",
+    "fullName": "Generalized Linear Modeling",
+    "supervised": true,
+    "available": false
+  },
+  {
+    "name": "glrm",
+    "fullName": "Generalized Low Rank Modeling",
+    "supervised": true,
+    "available": false
+  },
+  {
+    "name": "kmeans",
+    "fullName": "K-means",
+    "supervised": false,
+    "available": false
+  },
+  {
+    "name": "naivebayes",
+    "fullName": "Naive Bayes",
+    "supervised": true,
+    "available": true
+  },
+  {
+    "name": "pca",
+    "fullName": "Principal Components Analysis",
+    "supervised": false,
+    "available": false
+  }
+]
