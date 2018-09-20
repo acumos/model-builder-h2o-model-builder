@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b441ad19_466bcacc",
+        "filename": "modelbuilder/app.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-20T11:35:04Z",
+      "side": 1,
+      "message": "Please add a #!/user/bin/env python2 (or python3??) so it\u0027s clear which interpreter is required.  Sorry I missed this previously.",
+      "revId": "a370f1b5c7b744c209b83dfeec74d5286ba471b5",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "59974e9d_9e063d20",
+        "filename": "modelbuilder/wsgi.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-20T11:35:04Z",
+      "side": 1,
+      "message": "Please add a #!/user/bin/env python2 (or python3??) so it\u0027s clear which interpreter is required.",
+      "revId": "a370f1b5c7b744c209b83dfeec74d5286ba471b5",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5d859d18_cbc78a1d",
+        "filename": "setup.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-20T11:35:04Z",
+      "side": 1,
+      "message": "Please add first line #!/usr/bin/env python3 so it\u0027s clear which interpreter is required.",
+      "revId": "a370f1b5c7b744c209b83dfeec74d5286ba471b5",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "30ca51a7_3dbb34b1",
+        "filename": "test/unit_test/test_flask_pytest.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-20T11:35:04Z",
+      "side": 1,
+      "message": "Probably also should haved #!/user/bin/env python3 as first line",
+      "revId": "a370f1b5c7b744c209b83dfeec74d5286ba471b5",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
