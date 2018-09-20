@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b4d98eb3_5f306083",
+        "filename": "setup.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-20T20:16:44Z",
+      "side": 1,
+      "message": "the hash-bang line has to be the first line",
+      "range": {
+        "startLine": 4,
+        "startChar": 6,
+        "endLine": 4,
+        "endChar": 7
+      },
+      "revId": "6adba3855b69d6c8bf2f0f95527f4e5b626298a8",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
