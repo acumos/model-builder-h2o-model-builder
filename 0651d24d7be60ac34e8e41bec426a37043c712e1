@@ -1,0 +1,135 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "76249e28_592f0df8",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "This looks wrong.  Bryan is not the on-boarding PTL.  The On-boarding PTL is not responsible for this project.\n\nWho is the PTL for the model-builder features?",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 37
+      },
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "222e021c_2a99e41d",
+        "filename": "docs/overview.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "Please use https://jenkins.acumos.org/view/model-builder/",
+      "range": {
+        "startLine": 34,
+        "startChar": 4,
+        "endLine": 34,
+        "endChar": 68
+      },
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c1a08081_78efef96",
+        "filename": "modelbuilder/api/v2/endpoints.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "Maybe this should have #!/usr/bin/env (shebang) line at the top?",
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fced73af_96920a89",
+        "filename": "modelbuilder/api/v2/parsers.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "Maybe this should have #!/usr/bin/env (shebang) line at the top?",
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "533c9cb8_4043e7e2",
+        "filename": "modelbuilder/api/v2/serializers.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "Maybe this should have #!/usr/bin/env (shebang) line at the top?",
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cace619c_68737ac8",
+        "filename": "setup.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "Needs a version\u003d\u0027abc123\u0027 entry.  What version is this?",
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a17c1b31_d77a7471",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-09-25T19:34:28Z",
+      "side": 1,
+      "message": "will you add py37 back?",
+      "revId": "0651d24d7be60ac34e8e41bec426a37043c712e1",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
