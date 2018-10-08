@@ -1,0 +1,118 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a97546c_1b69a856",
+        "filename": "acumoscommon/services/__init__.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "since this isn\u0027t empty, maybe a license header please?",
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d259c143_ab30bc2b",
+        "filename": "modelbuilder/api/business.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "please remove ATT UIDs, these are (for some reason) not supposed to be exposed in open-source repositories",
+      "range": {
+        "startLine": 45,
+        "startChar": 12,
+        "endLine": 45,
+        "endChar": 18
+      },
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d00907d5_0d19cf8d",
+        "filename": "modelbuilder/api/v2/endpoints.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "please add appropriate #! first line (shebang)",
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "833cca8a_1fa228b7",
+        "filename": "modelbuilder/api/v2/parsers.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "Please add #!/usr/bin/env line",
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4a588c5d_3c8de978",
+        "filename": "modelbuilder/api/v2/serializers.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "Should this have a shebang (#!/usr/bin/env) line?",
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6c117958_2f781d50",
+        "filename": "setup.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T13:41:35Z",
+      "side": 1,
+      "message": "Will you please add a version entry here?",
+      "range": {
+        "startLine": 31,
+        "startChar": 4,
+        "endLine": 31,
+        "endChar": 15
+      },
+      "revId": "9c3131892b526a4f3314dff5fa178e9bbbf45b66",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
