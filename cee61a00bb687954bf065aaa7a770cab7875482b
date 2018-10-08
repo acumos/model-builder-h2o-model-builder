@@ -22,6 +22,29 @@
       "revId": "cee61a00bb687954bf065aaa7a770cab7875482b",
       "serverId": "655300a2-7a56-4504-9153-881edd907bea",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "aed4450a_999a9bd1",
+        "filename": "pom.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-10-08T20:39:02Z",
+      "side": 1,
+      "message": "I added this comment because the POM is wholly duplicative here, it\u0027s present only to support Sonar scans.  I\u0027m not sure where the proper Python version info lives in this repo.",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 18
+      },
+      "revId": "cee61a00bb687954bf065aaa7a770cab7875482b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
     }
   ]
 }
