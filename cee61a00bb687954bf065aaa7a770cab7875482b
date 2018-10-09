@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "e1eee7c7_43c5fc89",
+        "filename": "modelbuilder/__init__.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 253
+      },
+      "writtenOn": "2018-10-09T15:58:59Z",
+      "side": 1,
+      "message": "Its referenced in the _version.py file....",
+      "parentUuid": "9a2b526b_e8ae2543",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 41
+      },
+      "revId": "cee61a00bb687954bf065aaa7a770cab7875482b",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "aed4450a_999a9bd1",
         "filename": "pom.xml",
         "patchSetId": 1
