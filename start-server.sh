@@ -16,8 +16,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ===============LICENSE_END=========================================================
-from microservice_flask import app, initialize_app
-initialize_app(app)
+#!/bin/bash
 
-if __name__ == "__main__":
-    app.run()
+pip install -e /opt/app/microservice
+
+mkdir -p /log
+
+cd /opt/app/microservice
+
+mkdir result_cache
+mkdir model_cache
+
+gunicorn --timeout 120 --bind 0.0.0.0:8061 --config /opt/app/microservice/properties/config.ini wsgi:app
+
