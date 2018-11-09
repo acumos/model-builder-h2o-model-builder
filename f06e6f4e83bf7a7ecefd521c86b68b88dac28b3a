@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fab645aa_97f8f578",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:22:20Z",
+      "side": 1,
+      "message": "please remove this blank line, keep the footer together",
+      "revId": "f06e6f4e83bf7a7ecefd521c86b68b88dac28b3a",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1630286e_1bdcc598",
+        "filename": "Dockerfile",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:22:20Z",
+      "side": 1,
+      "message": "I suggest using a tag to pin your build to a known good version, \"latest\" will change",
+      "range": {
+        "startLine": 19,
+        "startChar": 17,
+        "endLine": 19,
+        "endChar": 27
+      },
+      "revId": "f06e6f4e83bf7a7ecefd521c86b68b88dac28b3a",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e91a06fe_3e4ad951",
+        "filename": "Dockerfile",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2018-11-09T13:22:20Z",
+      "side": 1,
+      "message": "This looks dangerous to me, setting all files under /root to be world writable.  I know it\u0027s an ephemeral docker container, but why is this necessary?",
+      "range": {
+        "startLine": 24,
+        "startChar": 10,
+        "endLine": 24,
+        "endChar": 13
+      },
+      "revId": "f06e6f4e83bf7a7ecefd521c86b68b88dac28b3a",
+      "serverId": "655300a2-7a56-4504-9153-881edd907bea",
+      "unresolved": false
+    }
+  ]
+}
