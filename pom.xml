@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.acumos.model-builder</groupId>
     <artifactId>h2o-model-builder</artifactId>
-    <version>0.1.0</version> <!-- REPEATED IN modelbuilder/_version.py MUST MATCH -->
+    <version>0</version>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonar.sources>.</sonar.sources>
